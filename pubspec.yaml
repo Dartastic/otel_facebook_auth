@@ -2,7 +2,7 @@ name: otel_facebook_auth
 description: >-
   OpenTelemetry instrumentation for facebook_auth by Dartastic.io. Adds
   standard OpenTelemetry observability to applications that use facebook_auth.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_facebook_auth
 homepage: https://dartastic.io
 
